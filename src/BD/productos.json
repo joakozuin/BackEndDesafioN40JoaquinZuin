@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2022-09-05T00:28:20.120Z",
+    "nombre": "Coca Cola",
+    "descripcion": "Gaseosa",
+    "cant": "3",
+    "hora": "4/9/2022 21:28:20"
+  },
+  {
+    "id": "2022-09-05T00:28:44.932Z",
+    "nombre": "Sprite",
+    "descripcion": "Gaseosa",
+    "cant": "23",
+    "hora": "4/9/2022 21:28:20"
+  }
+]
